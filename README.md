@@ -1,5 +1,6 @@
 環境：
-  Python 3.6.3 jupyter notebook (numpy、pandas、sklearn)
+  Python 3.6.3 jupyter notebook (numpy、pandas、sklearn)\\
+ 
 特徵：
   將原始資料的時間新增天數相關變數，如：月份、日期、第幾天…等。
 
